@@ -9,3 +9,5 @@ include::results/cubeserv.adoc[]
 include::results/ldproxy.adoc[]
 
 include::results/pygeoapi.adoc[]
+
+include::results/owslib.adoc[]
